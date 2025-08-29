@@ -16,5 +16,6 @@ Building **cross-platform mobile apps** with **JavaScript**, **TypeScript** & **
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 
-### 📫 Let’s Connect
-💼 Open to **React Native** and **full-stack JavaScript** collaborations!
+## 📫 Let’s Connect  
+💼 Available for **React Native** apps and **Node.js-powered REST APIs**—covering everything from mobile UI to backend endpoints.
+
